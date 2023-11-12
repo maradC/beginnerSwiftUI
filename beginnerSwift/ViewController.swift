@@ -8,14 +8,13 @@
 import UIKit
 
 class ViewController: UIViewController {
-
-    @IBOutlet weak var changeBackgroundColor: UIButton!
     
     @IBOutlet weak var movingWord: UILabel!
    
     @IBOutlet weak var searchBar: UISearchBar!
-        
-    @IBAction func changeColorButtonTapped(_ sender: UIButton) {
+    
+    
+    @IBAction func changeColorButtonTapped(_ sender: UIButton){
         let randomColor = changeColor()
                 view.backgroundColor = randomColor
     }
@@ -29,7 +28,6 @@ class ViewController: UIViewController {
    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
 
 
