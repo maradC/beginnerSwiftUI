@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var searchBar: UISearchBar!
     
     
-    @IBAction func changeColorButtonTapped(_ sender: UIButton){
+    @IBAction func changeBackgroudColorTapped(_ sender: UIButton) {
         let randomColor = changeColor()
                 view.backgroundColor = randomColor
     }
