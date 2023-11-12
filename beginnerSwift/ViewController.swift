@@ -8,13 +8,10 @@
 import UIKit
 
 class ViewController: UIViewController {
-    
-    
-   
+
     @IBOutlet weak var searchBar: UISearchBar!
     
-    
-    @IBAction func changeBackgroudColorTapped(_ sender: UIButton) {
+    @IBAction func changeBackgroundColorTapped(_ sender: UIButton) {
         let randomColor = changeColor()
                 view.backgroundColor = randomColor
     }
