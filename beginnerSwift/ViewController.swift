@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    @IBOutlet weak var movingWord: UILabel!
+    
    
     @IBOutlet weak var searchBar: UISearchBar!
     
