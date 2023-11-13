@@ -68,6 +68,9 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
                     <connections>
+                        <outlet property="colorText" destination="puo-s3-Nz3" id="bEB-kr-9US"/>
+                        <outlet property="nameColor" destination="SAv-Mt-irs" id="mzj-4S-KZg"/>
+                        <outlet property="roleColor" destination="LmQ-OE-yN7" id="CR4-iM-qpg"/>
                         <outlet property="searchBar" destination="oyP-TC-9kG" id="v6Z-Bj-9Ec"/>
                     </connections>
                 </viewController>

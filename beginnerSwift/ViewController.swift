@@ -12,11 +12,17 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var searchBar: UISearchBar!
     
-   
+    @IBOutlet weak var nameColor: UILabel!
+    
+    @IBOutlet weak var roleColor: UILabel!
+    @IBOutlet weak var colorText: UILabel!
     
     @IBAction func changeBackgroundColor(_ sender: UIButton) {
        let randomColor = changeColor()
         view.backgroundColor = randomColor
+        colorText.textColor = randomColor
+        nameColor.textColor = randomColor
+        roleColor.textColor = randomColor
     }
     
     func changeColor() -> UIColor{
