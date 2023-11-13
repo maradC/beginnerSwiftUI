@@ -1,8 +1,8 @@
-# Prework - Color Chnager
+# Prework - Color Changer
 
 Submitted by: Christopher Maradiaga
 
-Christopher Maradiaga is an app that when you click the button it will change the background and text
+Color Changer is an app that when you click the button it will change the color of the background and text
 
 Time spent: 8 hours spent in total
 
