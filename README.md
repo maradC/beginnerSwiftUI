@@ -31,14 +31,17 @@ Make a list of your favorite 3-5 applications and identify 2-3 features that mak
    -I like how it gives recommened videos on what you've been watching
    -When you just open the app if gives you an animation
    -How do vidoes plays without clicking on it
+   
 2.Snapchat
     -How everyone can chat and make groupchats to talk
     -How you can add others as friends
    -How it has the face animation where the camera recoginze your face
+   
 3.My Amex App
     -Shows you how much credit you have used it
    -Updates when you make a purchase or oay
    -Shows you special offers exculisive to amex card holders
+   
 4.Weather App
     -Shows you the weather in your area
    -Can type in different locations around the world and shows you the weather in that area
